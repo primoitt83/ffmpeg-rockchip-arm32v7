@@ -30,7 +30,7 @@ docker build --pull --no-cache --rm=true -f Dockerfile -t ffmpeg-rockchip:arm32v
 
 ## Can I build on x86_64 machine?
 
-Yes, but you need to build image first then use compose:
+Yes, no problem:
 
 ````
 git clone https://github.com/primoitt83/ffmpeg-rockchip-arm32v7.git
